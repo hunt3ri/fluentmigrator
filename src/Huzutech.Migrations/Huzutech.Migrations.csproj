@@ -92,6 +92,9 @@
     <Compile Include="Migrations\Launch\Mig007_OAuth2Scope.cs" />
     <Compile Include="Migrations\Launch\Mig008_OAuth2TokenScope.cs" />
     <Compile Include="Migrations\Launch\Mig009_UserOAuth2Scope.cs" />
+    <Compile Include="Migrations\Launch\Mig010_CreateApiTable.cs" />
+    <Compile Include="Migrations\Launch\Mig011_CreateApiRequestTable.cs" />
+    <Compile Include="Migrations\Launch\Mig012_CreateApiSampleTable.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
